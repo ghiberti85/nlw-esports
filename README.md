@@ -18,7 +18,8 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="web/src/assets/nlw-esports-mockup-desktop.svg" width="100%">
+  <img alt="BeTheHero" src="web/src/assets/nlw-esports-mockup-desktop.png" width="100%">
+  <img alt="BeTheHero" src="web/src/assets/nlw-esports-mockup-mobile.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
